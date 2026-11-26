@@ -1,0 +1,5 @@
+# Everything under build/ is generated; only the finished ROM is kept.
+build/*
+!build/COMPAT3.PCE
+__pycache__/
+PUBLISH_NOTES.md
